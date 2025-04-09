@@ -95,3 +95,4 @@ stats.forEach(stat => {
 
     statObserver.observe(stat);
 });
+
